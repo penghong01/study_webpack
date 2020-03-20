@@ -1,0 +1,8 @@
+.menu{
+    width: 400px;
+    height: 500px;
+    background-color: red;
+}
+.menu li {
+    color: #ffffff;
+}
